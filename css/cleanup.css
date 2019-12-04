@@ -19,7 +19,7 @@ body #wall #tag-4 {
   display: none;
 }*/
 
-body #wall #tag-6 {
+body #wall .parent #tag-6 {
   display: none;
 }
 
